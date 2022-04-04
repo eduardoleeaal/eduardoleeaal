@@ -1,8 +1,13 @@
 ### Salve, Eu sou o Eduardo 👋
 <div align="center">
   <a href="https://github.com/SkayZeerA">
+<<<<<<< HEAD
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=eduardoleeaal&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoleeaal&layout=compact&langs_count=7&theme=merko"/>
+=======
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SkayZeerA&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SkayZeerA&layout=compact&langs_count=7&theme=merko"/>
+>>>>>>> parent of 8b58ba6 (Update README.md)
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
