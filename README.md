@@ -8,7 +8,7 @@
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
   <img align="center" alt="GML" height="30" width="30" src="https://img.icons8.com/color/96/000000/game-maker.png"/>
-  <img align="right" alt="pic" height="150" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/88923146?v=4">
+  <img align="right" alt="pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/88923146/161589923-1a4fe479-3ac6-4800-bb3d-18facfb5d660.gif">
  </div>
   
   ##
@@ -22,3 +22,4 @@
  </div>
  
  ![Snake animation](https://github.com/eduardoleeaal/eduardoleeaal/blob/output/github-contribution-grid-snake.svg)
+
