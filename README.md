@@ -1,4 +1,4 @@
-### Salve, Eu sou o Eduardo 👋
+### Salve 👋
 
   ##
   
